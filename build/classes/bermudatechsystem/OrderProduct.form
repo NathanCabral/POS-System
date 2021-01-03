@@ -1,0 +1,411 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Form version="1.3" maxVersion="1.9" type="org.netbeans.modules.form.forminfo.JFrameFormInfo">
+  <NonVisualComponents>
+    <Menu class="javax.swing.JMenuBar" name="jMenuBar1">
+      <SubComponents>
+        <Menu class="javax.swing.JMenu" name="jMenu1">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="View"/>
+          </Properties>
+          <SubComponents>
+            <MenuItem class="javax.swing.JMenuItem" name="adminInterface">
+              <Properties>
+                <Property name="accelerator" type="javax.swing.KeyStroke" editor="org.netbeans.modules.form.editors.KeyStrokeEditor">
+                  <KeyStroke key="Ctrl+M"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="Admin Interface"/>
+              </Properties>
+              <Events>
+                <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="adminInterfaceActionPerformed"/>
+              </Events>
+            </MenuItem>
+          </SubComponents>
+        </Menu>
+      </SubComponents>
+    </Menu>
+  </NonVisualComponents>
+  <Properties>
+    <Property name="defaultCloseOperation" type="int" value="3"/>
+  </Properties>
+  <SyntheticProperties>
+    <SyntheticProperty name="menuBar" type="java.lang.String" value="jMenuBar1"/>
+    <SyntheticProperty name="formSizePolicy" type="int" value="1"/>
+    <SyntheticProperty name="generateCenter" type="boolean" value="false"/>
+  </SyntheticProperties>
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+  </AuxValues>
+
+  <Layout>
+    <DimensionLayout dim="0">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" alignment="0" attributes="0">
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" attributes="0">
+                      <Component id="lblOrderProducts" max="32767" attributes="0"/>
+                      <EmptySpace max="-2" attributes="0"/>
+                  </Group>
+                  <Group type="102" alignment="0" attributes="0">
+                      <Group type="103" groupAlignment="1" attributes="0">
+                          <Component id="jLabel1" alignment="1" max="32767" attributes="0"/>
+                          <Component id="lblProductInformation" alignment="1" max="32767" attributes="0"/>
+                          <Group type="102" alignment="1" attributes="0">
+                              <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                                  <Component id="lblproductIDToBeOrdered" alignment="0" max="32767" attributes="0"/>
+                                  <Component id="lblProductNameToBeOrdered" alignment="0" max="32767" attributes="0"/>
+                                  <Component id="lblHardwareTypeToBeOrdered" alignment="0" max="32767" attributes="0"/>
+                                  <Component id="lblProductPriceToBeOrdered" alignment="0" max="32767" attributes="0"/>
+                                  <Component id="lblSupplierIDToBeOrdered" alignment="0" max="32767" attributes="0"/>
+                                  <Component id="lblCurrentProductQuantityToBeOrdered" alignment="1" min="-2" max="-2" attributes="0"/>
+                              </Group>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Group type="103" groupAlignment="0" attributes="0">
+                                  <Component id="productNameToBeOrdered" alignment="0" max="32767" attributes="0"/>
+                                  <Component id="hardwareTypeToBeOrdered" alignment="0" max="32767" attributes="0"/>
+                                  <Component id="productPriceToBeOrdered" alignment="0" max="32767" attributes="0"/>
+                                  <Component id="currentProductQuantityToBeOrdered" alignment="0" max="32767" attributes="0"/>
+                                  <Component id="addedSupplierID" alignment="0" max="32767" attributes="0"/>
+                                  <Component id="productIDToBeOrdered" alignment="0" max="32767" attributes="0"/>
+                              </Group>
+                          </Group>
+                          <Group type="102" alignment="0" attributes="0">
+                              <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                                  <Component id="jLabel8" alignment="0" max="32767" attributes="0"/>
+                                  <Component id="lblSupplierName" alignment="0" max="32767" attributes="0"/>
+                                  <Component id="lblSupplierRepresentativeName" alignment="0" max="32767" attributes="0"/>
+                                  <Component id="lblSupplierRepresentativeNumber" alignment="0" max="32767" attributes="0"/>
+                                  <Component id="lblSuppliedProducts" alignment="0" max="32767" attributes="0"/>
+                                  <Component id="lblSupplierRepresentativeEmail" alignment="1" max="32767" attributes="0"/>
+                              </Group>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Group type="103" groupAlignment="0" attributes="0">
+                                  <Component id="supplierName" alignment="0" pref="259" max="32767" attributes="0"/>
+                                  <Component id="supplierRepresentativeName" alignment="0" max="32767" attributes="0"/>
+                                  <Component id="supplierRepresentativeNumber" alignment="0" max="32767" attributes="0"/>
+                                  <Component id="supplierRepresentativeEmail" alignment="0" max="32767" attributes="0"/>
+                                  <Component id="suppliedProducts" alignment="0" max="32767" attributes="0"/>
+                                  <Component id="supplierID" alignment="0" max="32767" attributes="0"/>
+                              </Group>
+                          </Group>
+                          <Component id="btnImportInformation" alignment="1" pref="422" max="32767" attributes="0"/>
+                      </Group>
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Group type="102" attributes="0">
+                              <EmptySpace min="-2" pref="80" max="-2" attributes="0"/>
+                              <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                                  <Component id="lblQuantityToBeOrdered" alignment="0" max="32767" attributes="0"/>
+                                  <Component id="lblPurchaseOrderNumber" alignment="0" max="32767" attributes="0"/>
+                              </Group>
+                              <EmptySpace min="-2" pref="25" max="-2" attributes="0"/>
+                              <Group type="103" groupAlignment="0" attributes="0">
+                                  <Component id="purchaseOrderNumber" alignment="0" pref="200" max="32767" attributes="0"/>
+                                  <Component id="quantityToBeOrdered" alignment="0" max="32767" attributes="0"/>
+                              </Group>
+                              <EmptySpace min="-2" pref="52" max="-2" attributes="0"/>
+                          </Group>
+                          <Group type="102" alignment="1" attributes="0">
+                              <EmptySpace max="32767" attributes="0"/>
+                              <Group type="103" groupAlignment="0" attributes="0">
+                                  <Group type="102" alignment="1" attributes="0">
+                                      <Component id="lblOrderInformation" min="-2" pref="216" max="-2" attributes="0"/>
+                                      <EmptySpace min="-2" pref="120" max="-2" attributes="0"/>
+                                  </Group>
+                                  <Group type="102" alignment="1" attributes="0">
+                                      <Component id="btnClearOrderForm" min="-2" pref="127" max="-2" attributes="0"/>
+                                      <EmptySpace max="-2" attributes="0"/>
+                                      <Component id="btnOrderProduct" min="-2" pref="134" max="-2" attributes="0"/>
+                                      <EmptySpace min="-2" pref="85" max="-2" attributes="0"/>
+                                  </Group>
+                              </Group>
+                          </Group>
+                      </Group>
+                  </Group>
+              </Group>
+          </Group>
+      </Group>
+    </DimensionLayout>
+    <DimensionLayout dim="1">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" alignment="0" attributes="0">
+              <EmptySpace max="-2" attributes="0"/>
+              <Component id="lblOrderProducts" min="-2" pref="22" max="-2" attributes="0"/>
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="1" attributes="0">
+                  <Group type="102" alignment="1" attributes="0">
+                      <Component id="lblProductInformation" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace min="-2" pref="11" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="3" attributes="0">
+                          <Component id="lblproductIDToBeOrdered" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="productIDToBeOrdered" alignment="3" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="3" attributes="0">
+                          <Component id="lblProductNameToBeOrdered" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="productNameToBeOrdered" alignment="3" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="3" attributes="0">
+                          <Component id="lblHardwareTypeToBeOrdered" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="hardwareTypeToBeOrdered" alignment="3" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="3" attributes="0">
+                          <Component id="lblProductPriceToBeOrdered" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="productPriceToBeOrdered" alignment="3" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="3" attributes="0">
+                          <Component id="lblCurrentProductQuantityToBeOrdered" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="currentProductQuantityToBeOrdered" alignment="3" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Component id="lblSupplierIDToBeOrdered" alignment="0" min="-2" max="-2" attributes="0"/>
+                          <Component id="addedSupplierID" alignment="0" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                      <Component id="jLabel1" min="-2" pref="23" max="-2" attributes="0"/>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="3" attributes="0">
+                          <Component id="jLabel8" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="supplierID" alignment="3" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="3" attributes="0">
+                          <Component id="lblSupplierName" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="supplierName" alignment="3" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="3" attributes="0">
+                          <Component id="lblSupplierRepresentativeName" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="supplierRepresentativeName" alignment="3" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace max="-2" attributes="0"/>
+                  </Group>
+                  <Group type="102" alignment="1" attributes="0">
+                      <Component id="lblOrderInformation" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="3" attributes="0">
+                          <Component id="lblQuantityToBeOrdered" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="quantityToBeOrdered" alignment="3" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="3" attributes="0">
+                          <Component id="lblPurchaseOrderNumber" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="purchaseOrderNumber" alignment="3" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="3" attributes="0">
+                          <Component id="btnOrderProduct" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="btnClearOrderForm" alignment="3" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace min="-2" pref="45" max="-2" attributes="0"/>
+                  </Group>
+              </Group>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="lblSupplierRepresentativeNumber" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="supplierRepresentativeNumber" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="lblSupplierRepresentativeEmail" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="supplierRepresentativeEmail" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Component id="lblSuppliedProducts" alignment="0" min="-2" max="-2" attributes="0"/>
+                  <Component id="suppliedProducts" alignment="0" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace pref="13" max="32767" attributes="0"/>
+              <Component id="btnImportInformation" min="-2" pref="23" max="-2" attributes="0"/>
+              <EmptySpace min="-2" pref="30" max="-2" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+  </Layout>
+  <SubComponents>
+    <Component class="javax.swing.JLabel" name="lblOrderProducts">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Tahoma" size="18" style="1"/>
+        </Property>
+        <Property name="horizontalAlignment" type="int" value="0"/>
+        <Property name="text" type="java.lang.String" value="Order Products"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="productNameToBeOrdered">
+    </Component>
+    <Component class="javax.swing.JTextField" name="hardwareTypeToBeOrdered">
+    </Component>
+    <Component class="javax.swing.JTextField" name="productPriceToBeOrdered">
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="productPriceToBeOrderedActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JTextField" name="currentProductQuantityToBeOrdered">
+    </Component>
+    <Component class="javax.swing.JLabel" name="lblproductIDToBeOrdered">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Product ID:"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="addedSupplierID">
+    </Component>
+    <Component class="javax.swing.JLabel" name="lblProductNameToBeOrdered">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Product Name: "/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JButton" name="btnImportInformation">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Import Information"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="btnImportInformationActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JLabel" name="lblHardwareTypeToBeOrdered">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Hardware Type:"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="lblProductPriceToBeOrdered">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Product Price:"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="lblCurrentProductQuantityToBeOrdered">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Current Product Quantity:"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="lblSupplierIDToBeOrdered">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Supplier ID:"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="productIDToBeOrdered">
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="productIDToBeOrderedActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JLabel" name="lblProductInformation">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Tahoma" size="12" style="3"/>
+        </Property>
+        <Property name="horizontalAlignment" type="int" value="0"/>
+        <Property name="text" type="java.lang.String" value="Product Information"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="supplierRepresentativeEmail">
+    </Component>
+    <Component class="javax.swing.JLabel" name="jLabel8">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Supplier ID:"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="suppliedProducts">
+    </Component>
+    <Component class="javax.swing.JLabel" name="lblSupplierName">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Supplier Name:"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="lblSupplierRepresentativeName">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Supplier Representative Name: "/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="lblSupplierRepresentativeNumber">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Supplier Representative Number:"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="lblSupplierRepresentativeEmail">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Supplier Representative Email:"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="supplierName">
+    </Component>
+    <Component class="javax.swing.JLabel" name="lblSuppliedProducts">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Supplied Products:"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="supplierRepresentativeName">
+    </Component>
+    <Component class="javax.swing.JTextField" name="supplierID">
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="supplierIDActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JTextField" name="supplierRepresentativeNumber">
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="supplierRepresentativeNumberActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jLabel1">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Tahoma" size="12" style="3"/>
+        </Property>
+        <Property name="horizontalAlignment" type="int" value="0"/>
+        <Property name="text" type="java.lang.String" value="Supplier Information"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="lblOrderInformation">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Tahoma" size="12" style="3"/>
+        </Property>
+        <Property name="horizontalAlignment" type="int" value="0"/>
+        <Property name="text" type="java.lang.String" value="Order Information"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="lblQuantityToBeOrdered">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Quantity To Be Ordered:"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="lblPurchaseOrderNumber">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Purchase Order Number:"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="quantityToBeOrdered">
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="quantityToBeOrderedActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JTextField" name="purchaseOrderNumber">
+    </Component>
+    <Component class="javax.swing.JButton" name="btnOrderProduct">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Order Product"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="btnOrderProductActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="btnClearOrderForm">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Clear Order"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="btnClearOrderFormActionPerformed"/>
+      </Events>
+    </Component>
+  </SubComponents>
+</Form>

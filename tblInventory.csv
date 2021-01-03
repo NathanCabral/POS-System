@@ -1,0 +1,317 @@
+PD001,Graphics Card ,Titan Xp,1200,3,SP001
+PD002,Graphics Card ,Titan X,1150,1,SP001
+PD003,Graphics Card ,GTX 1080 Ti,699,7,SP001
+PD004,Graphics Card ,GTX 1080 ,549,0,SP001
+PD005,Graphics Card ,GTX 1070 Ti,449,1,SP001
+PD006,Graphics Card ,GTX 1070,399,8,SP001
+PD007,Graphics Card ,GTX Titan X,1143,6,SP001
+PD008,Graphics Card ,GTX 1060 6GB ,350,14,SP001
+PD009,Graphics Card ,GTX 1060 3GB ,330,13,SP001
+PD010,Graphics Card ,Titan V ,2999,5,SP001
+PD011,Graphics Card ,Quadro GP100,6999,4,SP001
+PD012,Graphics Card ,Quadro P6000,4999,12,SP001
+PD013,Graphics Card ,Quadro P5000,1999,4,SP001
+PD014,Graphics Card ,Quadro P4000,899,5,SP001
+PD015,Graphics Card ,GTX 1050 Ti,270,14,SP001
+PD016,Graphics Card ,GTX 1050,160,15,SP001
+PD017,Graphics Card ,Radeon RX Vega 64,720,2,SP002
+PD018,Graphics Card ,Radeon RX Vega 56,650,3,SP002
+PD019,Graphics Card ,Radeon RX 580,470,10,SP002
+PD020,Graphics Card ,Radeon RX 570,450,10,SP002
+PD021,Graphics Card ,Radeon RX 560,200,9,SP002
+PD022,Graphics Card ,Radeon RX 550,170,13,SP002
+PD023,Graphics Card ,Radeon RX 480,320,4,SP002
+PD024,Graphics Card ,Radeon RX 470,250,7,SP002
+PD025,Graphics Card ,Radeon RX 460,120,7,SP002
+PD026,Graphics Card ,Radeon Pro Duo ,996,8,SP002
+PD027,Graphics Card ,Radeon Pro SSG,4806,4,SP002
+PD028,Full Tower,Corsair Obsidian Series 750D,160,10,SP003
+PD029,Full Tower,Corsair Graphite Series  760T WW White Full tower Windowed Case CC-9011074-WW,180,14,SP003
+PD030,Full Tower,Corsair Graphite Series  760T WW Black Full tower Windowed Case,170,6,SP003
+PD031,Full Tower,Corsiar Graphite Series 780T Black Steel ATX CC-9011063-WW,180,14,SP003
+PD032,Full Tower,Corsiar Graphite Series Black/White Steel ATX 780T CC-9011059-WW,180,9,SP003
+PD033,Full Tower,Corsair 600Q Black ATX ,150,3,SP003
+PD034,Full Tower,Corsair Carbide Series Black Steel ATX  CC-9011079-WW ,160,9,SP003
+PD035,Full Tower,CM Storm Stryker White Gaming Computer Case,170,15,SP004
+PD036,Full Tower,CM Storm Trooper Gaming ,160,12,SP004
+PD037,Full Tower,COSMOS C700P E-ATX with RGB lighting Dual Curved Tempered Glass Side,300,12,SP004
+PD038,Full Tower,Cooler Master Cosmos II ,320,3,SP004
+PD039,Full Tower,Cooler Master HAF X  ,254,10,SP004
+PD040,Full Tower,Cooler Master Cosmos II RC-1200-KKN1 ,414,12,SP004
+PD041,Full Tower,EVGA 100-E1-1236-K0 Metalling Gunmental Grey ,312,4,SP005
+PD042,Full Tower,EVGA DG-86 Gaming Case 100-E1-1014-K0,230,10,SP005
+PD043,Mid Tower,EVGA DG-77 Alpine White,170,10,SP005
+PD044,Mid Tower,EVGA DG-75 Matte Black  150-B0-2020-KR,110,15,SP005
+PD045,Mid Tower,EVGA DG-76 Alppine White Mid-Tower 166-W1-2232-KR,150,6,SP005
+PD046,Mid Tower,EVGA DG-73 Matte Black 130-P0-0020-KR,90,7,SP005
+PD047,Mid Tower,EVGA DG-75 Alpine White 156-F1-2022-KR,120,7,SP005
+PD048,Mid Tower,EVGA DG-76 Matte Black 160-B0-2230-KR,140,14,SP005
+PD049,Mid Tower,MasterCase H500P ATX Mid-Tower Case,122,13,SP004
+PD050,Mid Tower,MasterBox Lite 5 RGB ATX Mid-Tower Tempered Glass Side Panel DarkMIrror Front Panel,70,8,SP004
+PD051,Mid Tower,Cooler Master HAF 912,62,15,SP004
+PD052,Mid Tower,MasterCase H500P ATX Mesh White ,150,1,SP004
+PD053,Mid Tower,MasterBox MB600L ,50,10,SP004
+PD054,Mid Tower,MasterBox Pro 5 RGB ,80,7,SP004
+PD055,Mid Tower,MasterCase MC500 Mid-Tower ATX Case w/ FreeForm Modular ,88,7,SP004
+PD056,Mid Tower,MasterCase Maker 5t  wl FreeForm Modular System ,210,10,SP004
+PD057,Mid Tower,Thermaltake View 31  CA-1H8-00M1WN-00,100,15,SP006
+PD058,Mid Tower,Thermaltake Core G21  CA-1I4-00M1WN-00,65,4,SP006
+PD059,Mid Tower,Thernaltake Core P90 CA-1J8-00M1WN-00,172,2,SP006
+PD060,Mid Tower,Thermaltake View 21  CA-1I3-00M1WN-00,60,13,SP006
+PD061,Mid Tower,Thermaltake Versa H21/Black/Win/SECC CA-1B2-00M1WN-00,40,10,SP006
+PD062,Mid Tower,Thermaltake View 27 CA-1G7-00M1WM-02,62,15,SP006
+PD063,Mid Tower,Thermaltake Suppressor F31,100,4,SP006
+PD064,MicroATX,Thermltake Core V21  CA-1D5-00S1WN-00,60,2,SP006
+PD065,MicroATX,Thermaltake Versa H18  CA-1J4-00S1WN-01,50,15,SP006
+PD066,MicroATX,Thermaltake Versa H17  CA-1J1-00S1NN-00,43,2,SP006
+PD067,MicroATX,Thermaltake Core X2  CA-1D7-00C1WN-00,130,5,SP006
+PD068,MicroATX,Thermaltake Urban S1 CA-1A8-00M1NN-00,50,3,SP006
+PD069,MicroATX,MasterBox Q300L ,40,9,SP004
+PD070,MicroATX,MasterBox Lite 3.1 ,40,11,SP004
+PD071,MicroATX,Cooler Master RC-343-KKN1,63,8,SP004
+PD072,MicroATX,SilverStone Temjin Series TJ08B-E ,105,6,SP007
+PD073,MicroATX,SilverStone Fortress Series FT03B ,170,7,SP007
+PD074,MicroATX,SilverStone Sugo Series SG04B ,115,10,SP007
+PD075,MicroATX,SilverStone Sugo Series SG02B-F-USB3.0,150,15,SP007
+PD076,CPU,Intel Core i7-8700k,328,1,SP008
+PD077,CPU,Intel Core i5-8600k,239,10,SP008
+PD078,CPU,AMD Ryzen 5 1600,176,13,SP002
+PD079,CPU,Intel Core i5-8400,179,12,SP008
+PD080,CPU,AMD Ryzen 7 2700X,325,2,SP002
+PD081,CPU,AMD Ryzen 3 2200G,95,10,SP002
+PD082,CPU,AMD Ryzen 5 2600X,224,3,SP002
+PD083,CPU,Intel Corei7-7700K,308,2,SP008
+PD084,CPU,AMD Ryzen 5 2400G,160,10,SP002
+PD085,Motherboard,Asus ROG STRIX Z3070-E,187,7,SP009
+PD086,Motherboard,Asus STRIX B350-F ,93,4,SP009
+PD087,Motherboard,Asus Prime Z370-A,152,11,SP009
+PD088,Motherboard,Asus Prime X470-Pro,175,2,SP009
+PD089,Motherboard,Asus ROG MAXIMUS X HERO,260,13,SP009
+PD090,Motherboard,Asus ROG STRIX X470-I,210,6,SP009
+PD091,Motherboard,Asus ROG STRIX Z370-I,190,2,SP009
+PD092,Motherboard,Asus ROG RAMPAGE VI EXTREME,650,7,SP009
+PD093,Motherboard,Asus ROG STRIX Z370-F,180,6,SP009
+PD094,Motherboard,Asus MAXIMUS VIII HERO,181,5,SP009
+PD095,Motherboard,MSI B350 PC MATE,70,12,SP010
+PD096,Motherboard,MSI Z370-A PRO,109,1,SP010
+PD097,Motherboard,MSI B350M PRO,66,7,SP010
+PD098,Motherboard,MSI B350 TOMAHAWK,81,12,SP010
+PD099,Motherboard,MSI X470 PLUS,130,1,SP010
+PD100,Motherboard,MSI B250M PRO-VD,42,9,SP010
+PD101,Motherboard,MSI Z370 PRO CARBON,130,2,SP010
+PD102,Motherboard,MSI Z370 SLI PLUS,113,1,SP010
+PD103,Motherboard,MSI B350M PRO-VD PLUS,60,5,SP010
+PD104,Motherboard,MSI Z270-A PRO,105,11,SP010
+PD105,Motherboard,MSI B360M PRO-VD,57,4,SP010
+PD106,Motherboard,MSI X370 GAMING PLUS,99,15,SP010
+PD107,Motherboard,MIS A320M PRO-VHL,45,4,SP010
+PD108,Motherboard,Gigabyte GA-AB3350N-Gaming,110,2,SP011
+PD109,Motherboard,Gigabyte B360M DS3H,66,12,SP011
+PD110,Motherboard,Gigabyte Z370P D3,106,1,SP011
+PD111,Motherboard,Gigabyte X470 AORUS ULTRA GAMING,141,6,SP011
+PD112,Motherboard,Gigabyte B360 HD3,85,11,SP011
+PD113,Motherboard,Gigabyte X470 AORUS GAMING 5 WIFI,180,12,SP011
+PD114,Motherboard,Gigabyte Z370 AORUS Gaming 7 ,210,9,SP011
+PD115,Motherboard,Gigabyte GA-H110M-A,45,8,SP011
+PD116,Motherboard,Gigabyte GA-AB350-GAMING 3 ,100,10,SP011
+PD117,Motherboard,Gigabyte GA-970A-DS3P,82,3,SP011
+PD118,CPU Cooler,Corsair H100i v2,95,13,SP003
+PD119,CPU Cooler,Corsair H150i PRO,170,2,SP003
+PD120,CPU Cooler,Corsair H60,63,7,SP003
+PD121,CPU Cooler,Corsair H115i PRO,140,7,SP003
+PD122,CPU Cooler,Corsair H100i ,100,15,SP003
+PD123,CPU Cooler,Corsair H60 (2018),70,6,SP003
+PD124,CPU Cooler,Corsair H115i ,120,14,SP003
+PD125,CPU Cooler,Cooler Master Hyper 212 EVO,20,2,SP004
+PD126,CPU Cooler,Cooler Master MasterLiquid ML240L RGB,50,13,SP004
+PD127,CPU Cooler,Cooler Master Hyper T2,10,8,SP004
+PD128,CPU Cooler,Cooler Master MasterLiquid Lite 240,45,14,SP004
+PD129,CPU Cooler,Cooler Master MasterLiquid 120,55,4,SP004
+PD130,CPU Cooler,Cooler Master MasterLiquid ML240R RGB,116,12,SP004
+PD131,CPU Cooler,Cooler Master MasterLiquid 240,60,12,SP004
+PD132,CPU Cooler,Cooler Master MasterLiquid ML120L RGB,50,4,SP004
+PD133,Memory,Corsair Vengeance LPX DDR4-3000 2x8GB ,191,6,SP003
+PD134,Memory,Corsair Vengeance LPX DDR4-2400 1x8GB ,87,10,SP003
+PD135,Memory,Corsair Vengeance RGB DDR4-3200 2x8GB,206,2,SP003
+PD136,Memory,Samsung DDR4-2400 1x32GB,348,13,SP012
+PD137,Memory,Samsung DDR4-2133 1x32GB,325,8,SP012
+PD138,Memory,Kingston HyperX Fury DDR4-2133 2x4GB ,95,9,SP013
+PD139,Memory,Kingston DDR4-2666 1x64GB,900,11,SP013
+PD140,Memory,Kingston Savage DDR4-2400 2x4GB ,150,3,SP013
+PD141,Memory,Kingston FURY DDR4-2666 2x4GB,97,1,SP013
+PD142,Storage,Samsung MZ-V6E500 500GB,210,12,SP012
+PD143,Storage,Samsung MZ-76E1TOB/AM 1TB,270,13,SP012
+PD144,Storage,Samsung MZ-76P4T0BW 4TB,1700,2,SP012
+PD145,Storage,Samsung MZ-75E250B?AM,100,6,SP012
+PD146,Storage,Kingston SA400S37/120G,40,14,SP013
+PD147,Storage,Kingston SA400S37/240G,69,1,SP013
+PD148,Storage,Kingston SA400S37/480G,120,9,SP013
+PD149,Storage,Kingston SKC400S37/1T,425,14,SP013
+PD150,Storage,SanDisk SDSSDA_240G-G26,70,8,SP014
+PD151,Storage,SanDisk SDSSDA_480G-G26,110,13,SP014
+PD152,Storage,SanDisk SDSSDH3-1T00-G25,230,12,SP014
+PD153,Storage,SanDisk SDSSDH3-2T00-G25,453,7,SP014
+PD154,Power Supply,EVGA SuperNOVA 650 ,56,13,SP005
+PD155,Power Supply,EVGA SuperNOVA 750,100,3,SP005
+PD156,Power Supply,EVGA SuperNOVA 850,110,15,SP005
+PD157,Power Supply,EVGA 500B,39,1,SP005
+PD158,Power Supply,EVGA SuperNOVA 1000,170,15,SP005
+PD159,Power Supply,Cooler Master MasterWatt 550,32,9,SP004
+PD160,Power Supply,Cooler Master V750,108,14,SP004
+PD161,Power Supply,Cooler Master V650,90,4,SP004
+PD162,Power Supply,Cooler Master MPZ-C001-AFBAT 1200W,990,12,SP004
+PD163,Power Supply,Thermaltake PS-TPG-0750FPCGUS-R,90,6,SP006
+PD164,Power Supply,Thermaltake PS-SPD-0500NPCWUS-W,35,2,SP006
+PD165,Power Supply,Thermaltake PS-SPR-0650FPCBUS-R,73,2,SP006
+PD166,Power Supply,Thermaltake PS-TPG-1500DPCTUS-T,400,14,SP006
+PD167,Operating System,Microsoft Windows 10 Home (64-bit),95,5,SP015
+PD168,Operating System,Microsoft Windows 10 Home (32-bit),120,1,SP015
+PD169,Operating System,Microsoft Windows 10 Pro (64-bit),130,10,SP015
+PD170,Operating System,Microsoft Windows 10 Pro (32-bit),190,15,SP015
+PD171,Operating System,Microsoft Windows 7 Ultimate SP1 (32-bit),230,2,SP015
+PD172,Software,Microsoft Office Professional 2016 ,349,11,SP015
+PD173,Software,Microsoft Office Home and Student 2016 ,220,5,SP015
+PD174,Software,Microsoft Office 365 Personal ,70,4,SP015
+PD175,Software,Adobe Photoshop Elements 14,190,10,SP016
+PD176,Software,Adobe Photoshop & Premiere Elements 14,275,5,SP016
+PD177,Software,Adobe Photoshop lightroom 6,149,3,SP016
+PD178,Monitor,Acer GN246HL,198,2,SP017
+PD179,Monitor,Acer G226HQLBbd,78,1,SP017
+PD180,Monitor,Acer KG221Q,96,5,SP017
+PD181,Monitor,Acer Predator X34,1065,6,SP017
+PD182,Monitor,Acer XB271HU bmiprz,600,9,SP017
+PD183,Monitor,Acer H236HLbid,130,7,SP017
+PD184,Monitor,Acer R240HY bidx,130,15,SP017
+PD185,Monitor,Acer XB241H bmipr,340,11,SP017
+PD186,Monitor,Acer Predator XB1,540,10,SP017
+PD187,Monitor,BenQ XL2411,250,6,SP018
+PD188,Monitor,BenQ GL2460HM,118,6,SP018
+PD189,Monitor,BenQ GW2270,90,4,SP018
+PD190,Monitor,BenQ GW2765HT,300,9,SP018
+PD191,Monitor,BenQ GL2760H,150,10,SP018
+PD192,Monitor,BenQ GW2470H,291,11,SP018
+PD193,Monitor,BenQ XL2540,444,8,SP018
+PD194,Monitor,BenQ GL2580H,130,8,SP018
+PD195,External Storage,Seagate 2TB,65,14,SP019
+PD196,External Storage,Seagate 1TB,60,1,SP019
+PD197,External Storage,Seagate 4TB,100,3,SP019
+PD198,External Storage,Seagate 5TB,120,7,SP019
+PD199,External Storage,Seagate 10TB,300,4,SP019
+PD200,External Storage,Samsung  500GB,99,4,SP012
+PD201,External Storage,Samsung 1TB,169,5,SP012
+PD202,External Storage,Samsung 2TB,230,1,SP012
+PD203,External Storage,Samsung 250GB,64,10,SP012
+PD204,External Storage,ADATA 500GB,50,7,SP020
+PD205,External Storage,ADATA 256GB,74,14,SP020
+PD206,External Storage,ADATA 1TB,83,2,SP020
+PD207,Headsets ,Logitech G430,38,13,SP021
+PD208,Headsets ,Logitech G230,35,1,SP021
+PD209,Headsets ,Logitech G933 Artemis Spectrum ,128,14,SP021
+PD210,Headsets ,Logitech G533,81,9,SP021
+PD211,Headsets ,Logitech G933 Artemis Spectrum Snow,88,10,SP021
+PD212,Headsets ,Logitech G930,120,10,SP021
+PD213,Headsets ,Logitech G633 Artemis Spectrum ,96,6,SP021
+PD214,Headsets ,Logitech H110 ,11,6,SP021
+PD215,Headsets ,Logitech G231 PRODIGY ,51,3,SP021
+PD216,Headsets ,Logitech G35,246,8,SP021
+PD217,Headsets ,Logitech H390,25,7,SP021
+PD218,Headsets ,Razer ManO'War,140,10,SP022
+PD219,Headsets ,Razer KRAKEN 7.1 CHROMA,150,12,SP022
+PD220,Headsets ,Razer Kraken,73,7,SP022
+PD221,Headsets ,Razer Tiamat 7.1,650,5,SP022
+PD222,Headsets ,Razer Kraken Pro,100,7,SP022
+PD223,Headsets ,Razer Kraken Pro 2015,95,3,SP022
+PD224,Headsets ,Razer Kraken Forged ,250,13,SP022
+PD225,Headsets ,Razer Kraken Pro Neon,100,9,SP022
+PD226,Headsets ,Razer Hammerhead Pro,24,10,SP022
+PD227,Headsets ,Razer Adaro,40,15,SP022
+PD228,Headsets ,Razer BlackShark,45,6,SP022
+PD229,Headsets ,Razer Kraken Pro Neon,105,13,SP022
+PD230,Headsets ,Kingston HyperX Cloud II,88,2,SP013
+PD231,Headsets ,Kingston HyperX Cloud Alpha ,89,8,SP013
+PD232,Headsets ,Kingston Cloud Stinger,50,6,SP013
+PD233,Headsets ,Kingston HyperXCloud Core,69,6,SP013
+PD234,Headsets ,Kingston HyperX Cloud Revolver,100,2,SP013
+PD235,Headsets ,Kingston HyperX Cloud Pro,80,2,SP013
+PD236,Headsets ,Kingston HyperX Edition Steelseries Siberia v2,175,9,SP013
+PD237,Headsets ,Kingston HyperX Cloud Flight,160,7,SP013
+PD238,Headsets ,Kingston HyperX Cloud,135,11,SP013
+PD239,Keyboard,Corsair K55 RGB,48,5,SP003
+PD240,Keyboard,Corsair K65 RGB,90,9,SP003
+PD241,Keyboard,Corsair K95 RGB PLATINUM,172,14,SP003
+PD242,Keyboard,Corsair K70 RGB RAPIDFIRE,140,5,SP003
+PD243,Keyboard,Corsair STRAFE,70,11,SP003
+PD244,Keyboard,Corsair STRAFE RGB ,110,7,SP003
+PD245,Keyboard,Corsair K70 LUX RGB,130,11,SP003
+PD246,Keyboard,Corsair K66,55,9,SP003
+PD247,Keyboard,Corsair K68 ,70,2,SP003
+PD248,Keyboard,Corsair K68 RGB,120,14,SP003
+PD249,Keyboard,Razer BlackWidow Chroma V2,133,11,SP022
+PD250,Keyboard,Razer Cynose Chroma,59,10,SP022
+PD251,Keyboard,Razer Ornata Chroma,89,13,SP022
+PD252,Keyboard,Razer BlackWidow X Tournament Edition Chroma,105,10,SP022
+PD253,Keyboard,Razer Battlefield 4 BlackWidow Ultimate ,331,15,SP022
+PD254,Keyboard,Razer BlackWidow X Chroma,123,4,SP022
+PD255,Keyboard,Razer BlackWidow Tournament Edition  Chroma ,95,1,SP022
+PD256,Keyboard,Razer BlackWidow Tournament Edition  Chroma V2,162,13,SP022
+PD257,Keyboard,Razer BlackWidow Ultimate 2016,80,15,SP022
+PD258,Keyboard,Razer BlackWidow X Chroma Mercury Edition ,150,3,SP022
+PD259,Keyboard,Razer BlackWidow Ultimate 2014,80,1,SP022
+PD260,Keyboard,Razer DeathStalker Essential ,34,1,SP022
+PD261,Keyboard,Razer Orbweaber Chroma Elite RGB Gaming Keypad,130,12,SP022
+PD262,Keyboard,Logitech diNovo Edge ,760,9,SP021
+PD263,Keyboard,Logitech G810 Orion Spectrum RGB,100,7,SP021
+PD264,Keyboard,Logitech K120,9,4,SP021
+PD265,Keyboard,Logitech G213 PRODIGY ,50,3,SP021
+PD266,Keyboard,Logitech G Pro,100,7,SP021
+PD267,Keyboard,Logitech G610,77,3,SP021
+PD268,Keyboard,Logitech G910 Orion Spectrum RGB ,115,5,SP021
+PD269,Keyboard,Logiteh MK120,15,12,SP021
+PD270,Keyboard,Logitech G513 Carbon,150,8,SP021
+PD271,Keyboard,Logitech G413 Carbom,65,3,SP021
+PD272,Keyboard,Logitech G510s,339,13,SP021
+PD273,Keyboard,Logitech G613,98,10,SP021
+PD274,Keyboard,Logitech Wirekess Combo MK270,20,13,SP021
+PD275,Mouse,Corsair Harpoon RGB,30,13,SP003
+PD276,Mouse,Corsair M65 PRO RGB FPS,45,5,SP003
+PD277,Mouse,Corsair Sabre RGB,39,12,SP003
+PD278,Mouse,Corsair SCIMITAR PRO RGB,73,14,SP003
+PD279,Mouse, Corsair DARK CORE RGB SE,87,5,SP003
+PD280,Mouse,Corsair GLAIVE RGB,60,2,SP003
+PD281,Mouse,Corsair DARK CORE RGB,80,5,SP003
+PD282,Mouse,Corsair M65,65,8,SP003
+PD283,Mouse,Logitech G502 Proteus Spectrum ,50,3,SP021
+PD284,Mouse,Logitech G903,114,9,SP021
+PD285,Mouse,Logitech G203 Prodigy ,28,1,SP021
+PD286,Mouse,Logitech G603,36,11,SP021
+PD287,Mouse,Logitech G403 Prodigy ,47,4,SP021
+PD288,Mouse,Logitech G Pro,44,11,SP021
+PD289,Mouse,Logitech G703,80,1,SP021
+PD290,Mouse,Logitech G900 CHAOS SPECTRUM ,104,15,SP021
+PD291,Mouse,Logitech G300S,20,13,SP021
+PD292,Mouse,Logitech MX Master 2S,81,15,SP021
+PD293,Mouse,Razer DeathAdder Chroma,47,5,SP022
+PD294,Mouse,Razer DeathAdder Elite ,56,5,SP022
+PD295,Mouse,Razer Mamba Tournament Edition ,80,10,SP022
+PD296,Mouse,Razer Naga Molten ,299,2,SP022
+PD297,Mouse,Razer Naga Chroma ,80,11,SP022
+PD298,Mouse,Razer DeathAdder ,30,13,SP022
+PD299,Mouse,Razer Lancehead Tournament Edition ,60,15,SP022
+PD300,Mouse,Razer Naga Epic Chroma,120,7,SP022
+PD301,Mouse,Razer Naga Hex V2,49,2,SP022
+PD302,Mouse,Razer Basilisk ,60,6,SP022
+PD303,Case Fan,Cooler Master SickleFlow ,9,13,SP004
+PD304,Case Fan,Cooler Master MasterFan Pro 120,16,9,SP004
+PD305,Case Fan,Cooler Master MasterFan Pro 120 ,63,5,SP004
+PD306,Case Fan,Cooler Master Excalibur,18,15,SP004
+PD307,Case Fan,Corsair LL120RGB LED,99,1,SP003
+PD308,Case Fan,Corsair Air Series ,19,1,SP003
+PD309,Case Fan,Corsair HD120 RGB with Controller,75,7,SP003
+PD310,Case Fan,Corsair Air Series AF120,13,6,SP003
+PD311,Thermal Compound,ARCTIC MX4,5,14,SP023
+PD312,Thermal Compound,ARCTIC MX-2,25,6,SP023
+PD313,Thermal Compound,ARTIC MX2,17,12,SP023
+PD314,UPS,CyberPower CP1500PFCLCD 900W,180,8,SP024
+PD315,UPS,CyberPower CP1500AVRLCD 600W,145,5,SP024
+PD316,UPS,CyberPower AVRG750U 450W,80,13,SP024
+PD317,UPS,CyberPower CP550SLG 330W,55,1,SP024
